@@ -1,8 +1,6 @@
 package com.imozcan.human;
 
-public class Admin {
+public class Admin extends User {
 
-    public String UserName;
-    public String Password;
 
 }
