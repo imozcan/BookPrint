@@ -1,0 +1,34 @@
+**Mimari:**
+
+1. **Main Class (Ana Sınıf):**
+    Bu sınıf, uygulamayı başlatır ve kullanıcı arayüzü ile etkileşim sağlar. Kullanıcının komutlarını alır,
+    yorumlar ve ilgili işlemleri gerçekleştirmek için diğer sınıfları çağırır.
+
+2. **Kütüphane Yönetici Sınıfı:**
+    Bu sınıf, kitapları, kullanıcıları ve ilgili işlemleri yönetir. Kitap eklemek, listelemek, ödünç almak,
+    iade etmek gibi işlevler bu sınıf içinde yer alır.
+
+3. **Kitap Sınıfı:**
+    Bu sınıf, bir kitabın özelliklerini temsil eder (ad, yazar, yayınevi, durum vb.). Kitap nesneleri,
+    kütüphane yönetici sınıfı tarafından oluşturulur ve işlenir.
+
+4. **Kullanıcı Sınıfı:**
+    Bu sınıf, bir kullanıcının özelliklerini temsil eder (ad, ödünç aldığı kitaplar vb.). Kullanıcı nesneleri,
+    kütüphane yönetici sınıfı tarafından oluşturulur ve işlenir.
+
+**Komut Yorumlayıcısı Şeması:**
+    Komut yorumlayıcısı, kullanıcının girdiğini yorumlar ve ilgili işlemleri gerçekleştirmek için uygun yöntemleri
+     çağırır. İşte basit bir komut yorumlayıcısı şeması:
+
+```
+Kullanıcı Girişi --> Komut Yorumlayıcısı --> İlgili İşlemler
+```
+
+**Örnek Açıklama:**
+
+Kullanıcı, komut yorumlayıcısına "kitap ekle" gibi bir komut girer. Komut yorumlayıcısı, bu komutu işler ve
+ilgili metotları çağırarak yeni bir kitap eklemenin işlemlerini gerçekleştirir. Benzer şekilde, "kitap listele",
+"kitap ödünç al", "kullanıcı ekle" gibi komutlar da işlenebilir.
+
+Bu mimari ve şema, Java ile bir kütüphane sistemi geliştirmek için kullanılabilir. Uygulamanızı bu temel çerçeve
+üzerine inşa ederek, kullanıcıların kütüphane işlemlerini etkili bir şekilde gerçekleştirmesini sağlayabilirsiniz.

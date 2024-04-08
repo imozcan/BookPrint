@@ -1,0 +1,35 @@
+**Görev Listesi:**
+
+1. **Veri Yapılarının ve Sınıfların Tasarımı:**
+   - Kitap sınıfı oluşturulacak.
+   - Kütüphane sınıfı oluşturulacak.
+   - Kullanıcı sınıfı oluşturulacak.
+   - Durum enum sınıfı oluşturulacak (Mevcut, Ödünçte, Kaldırıldı gibi durumlar için).
+
+2. **Temel Fonksiyonlar:**
+   - Kütüphane sınıfı, kitap eklemek, kitapları listelemek, kitap aramak, kitap ödünç almak ve
+     iade etmek gibi temel işlevleri içerecek.
+   - Kullanıcılar kitapları arayabilecek, ödünç alabilecek ve iade edebilecek.
+
+3. **Kullanıcı Arayüzü:**
+   - Kullanıcılarla etkileşime geçebilecek basit bir komut istemi oluşturulacak.
+   - Kullanıcılar komutlar aracılığıyla kitap ekleyebilecek, listelenecek, aranacak, ödünç alınacak, iade edilecek,
+     kullanıcı eklenecek ve kullanıcı silinecek.
+
+4. **Kitap İşlemleri:**
+   - Kitap eklemek için kullanıcıdan kitap bilgilerinin alınması sağlanacak.
+   - Kitapların düzenli bir şekilde saklanması için kütüphane sınıfında uygun veri yapıları kullanılacak.
+   - Kütüphane, kitap ödünç alındığında veya iade edildiğinde bu durumu güncelleyecek.
+
+5. **Kullanıcı İşlemleri:**
+   - Kullanıcı ekleme işlemi için kullanıcıdan gerekli bilgilerin alınması sağlanacak.
+   - Kullanıcıların ödünç aldığı kitaplar izlenecek ve kullanıcıların iade ettiği kitaplar sistemde güncellenecek.
+   - Kütüphane, kullanıcıların kitap ödünç alma limitlerini kontrol edecek ve kullanıcıya kitap verilip
+   verilemeyeceğini belirleyecek.
+
+6. **Veri Doğrulama ve Hata Kontrolü:**
+   - Kullanıcı girişlerinin doğrulanması ve hatalı girişlerin işlenmesi sağlanacak.
+   - Kullanıcıya uygun geri bildirimler verilerek kullanıcı dostu bir deneyim sağlanacak.
+
+Bu görev listesi, genişletilmiş kütüphane sistemi projesinin temel işlevlerini kapsamaktadır.
+Bu temel işlevlerin yanı sıra, ek özellikler de ekleyerek projeyi daha da geliştirebilirsiniz.
