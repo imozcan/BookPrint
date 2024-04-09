@@ -1,10 +1,12 @@
 package com.imozcan.human;
 
 public class User {
-    public String Name;
-    public String Surname;
-    public int BirthDate;
-    public long NationalNumber;
-    public String UserName;
-    public String Password;
+    private String m_name;
+    private String m_surname;
+    private int m_BirthDate;
+    private long m_ationalNumber;
+    private String m_userName;
+    private String m_assword;
+
+
 }
