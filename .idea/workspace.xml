@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecafdea1-3859-4eb3-8150-bbc095e58552" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/imozcan/action/BookManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imozcan/action/BookCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imozcan/app/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imozcan/app/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imozcan/book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imozcan/book/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imozcan/human/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imozcan/human/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imozcan/human/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imozcan/human/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imozcan/action/BookManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imozcan/action/Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imozcan/app/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imozcan/app/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imozcan/book/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imozcan/human/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imozcan/human/Author.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imozcan/human/User.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +120,7 @@
       <workItem from="1680389083772" duration="31000" />
       <workItem from="1712593850654" duration="1452000" />
       <workItem from="1712595316393" duration="15087000" />
-      <workItem from="1712627519561" duration="8480000" />
+      <workItem from="1712627519561" duration="8816000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -130,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712615238556</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1712636187093</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712636187093</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
