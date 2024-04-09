@@ -3,19 +3,11 @@ package com.imozcan.action;
 import java.io.*;
 import com.imozcan.book.Book;
 import com.karandev.util.console.Console;
+import static com.imozcan.msg.MsgBookManager_TR.*;
 
 
 public class BookManager {
     private static int id = 1;
-    private static final String FILENAME = "db/kitaplar.txt";
-    private static final String NAME_MSG = "Kitap ismini Giriniz";
-    private static final String AUTHOR_MSG = "Yazar ismini Giriniz";
-    private static final String PAGE_MSG = "Sayfa Sayısını Giriniz";
-    private static final String ISBN_MSG = "ISBN Numarasını Giriniz";
-    private static final String PUBLISHER_MSG = "Yayınevi Bilgisini giriniz";
-    private static final String PUBLISHER_YEAR_MSG = "Baskı Yılını Giriniz";
-    private static final String TRANSLATOR_MSG = "Çevirmen Bilgisini Giriniz";
-    private static final String TYP_MSG = "Kitap Tür Bilgisini Giriniz";
 
     public static void search()
     {

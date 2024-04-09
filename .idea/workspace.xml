@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecafdea1-3859-4eb3-8150-bbc095e58552" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imozcan/action/BookManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imozcan/action/Status.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imozcan/app/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imozcan/app/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imozcan/book/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imozcan/human/Admin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imozcan/human/Author.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imozcan/human/User.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imozcan/msg/MsgBookManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imozcan/msg/MsgBookManager_Eng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imozcan/msg/MsgBookManager_TR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imozcan/msg/MsgUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imozcan/msg/MsgUser_Eng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imozcan/msg/MsgUser_TR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imozcan/action/BookManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imozcan/action/BookManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imozcan/app/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imozcan/app/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imozcan/human/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imozcan/human/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imozcan/human/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imozcan/human/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +27,7 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -37,6 +41,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2Nk82OKrMgkjNPXGdd8ZbQUILor" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -67,6 +74,9 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/temp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imozcan.msg" />
     </key>
   </component>
   <component name="RunManager">
@@ -120,7 +130,7 @@
       <workItem from="1680389083772" duration="31000" />
       <workItem from="1712593850654" duration="1452000" />
       <workItem from="1712595316393" duration="15087000" />
-      <workItem from="1712627519561" duration="8816000" />
+      <workItem from="1712627519561" duration="12879000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />

@@ -1,5 +1,6 @@
 package com.imozcan.app;
 import com.imozcan.action.BookManager;
+import com.imozcan.human.Admin;
 import com.karandev.util.console.Console;
 import static java.lang.System.exit;
 
@@ -13,6 +14,7 @@ public class Application {
                 case 2 -> BookManager.search();
                 case 3 -> BookManager.delete();
                 case 4 -> BookManager.edit();
+                case 8888 -> Admin.create();
                 default -> Application.run();
             }
         }
